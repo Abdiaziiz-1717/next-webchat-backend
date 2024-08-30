@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ca217.Ca217SsProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.41 s -- in com.ca217.Ca217SsProjectApplicationTests
